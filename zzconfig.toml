@@ -1,0 +1,38 @@
+baseURL = "https://donaldschulz.com/"
+languageCode = "en-us"
+title = "The Donald Schulz Project"
+disqusShortname = "DonaldOnSoftware"
+
+[params]
+  Name = "Donald Schulz"
+  HeaderUsername = "SchulzDL"
+  HeaderHostname = "SchulzDL"
+  About = "info_about_you"
+  ProfilePicture = "profile_picture_url"
+  Email = "your_email"
+  FacebookID = "your_facebook"
+  InstagramID = "your_instagram"
+  LinkedInID = ""
+  SpotifyID = ""
+  SoundcloudID = ""
+  TwitterID = "DonaldLSchulz"
+  TwitchID = ""
+  YouTubeID = ""
+
+[menu]
+  [[menu.header]]
+    identifier = "post"
+    name = "posts"
+    weight = 0
+  [[menu.header]]
+    parent = "post"
+    name = "All Posts"
+    url = "/posts"
+  [[menu.header]]
+    parent = "post"
+    name = "categories"
+    url = "/categories"
+  [[menu.header]]
+    parent = "post"
+    name = "tags"
+    url = "/tags"
