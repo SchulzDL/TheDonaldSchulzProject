@@ -26,8 +26,9 @@ disqusShortname = "your_disqus_shortname"
   Name = "The Donald Schulz Project"
   HeaderUsername = "hugo"
   HeaderHostname = "gohugo.io"
-  Email = "your_email"
-  About = "Hi I'm Hugo and this is my website. I am a developer, writer and family man. I like developing websites using Hugo, sports, nature, photography and travel. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  Email = "donald@schulz.com"
+  About = "Hi I'm Donald and this is my web site where I like to share the new music that I am working on and provide some background on the songs I am releasing. Enjoy!"
   ProfilePicture = "/donald.png"
   Favicon = "/favicon.ico"
+  BlogOnIndex = true
 
