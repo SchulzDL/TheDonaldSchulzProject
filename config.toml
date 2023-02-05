@@ -1,4 +1,4 @@
-baseurl = "https://schulzdl.github.io/TheDonaldSchulzProject/"
+baseurl = "/"
 title = "Donald Schulz"
 theme = "hugo-theme-nix2"
 languageCode = "en-us"
