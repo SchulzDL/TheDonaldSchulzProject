@@ -3,7 +3,7 @@ title = "About The Donald Schulz Project"
 date = "2023-02-04"
 menu = "main"
 image = "/images/donald.png"
-disqus = "no-comment"
+nocomments = true
 +++
 
 Welcome to "The Donald Schulz Project".  
