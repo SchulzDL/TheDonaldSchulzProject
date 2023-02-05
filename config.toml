@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/TheDonaldSchulzProject"
 title = "Donald Schulz"
 theme = "hugo-theme-nix2"
 languageCode = "en-us"
