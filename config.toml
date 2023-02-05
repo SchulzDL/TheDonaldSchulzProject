@@ -1,6 +1,6 @@
 baseurl = "https://schulzdl.github.io/TheDonaldSchulzProject/"
 title = "Donald Schulz"
-theme = "hugo-theme-nix"
+theme = "hugo-theme-nix2"
 languageCode = "en-us"
 disqusShortname = "your_disqus_shortname"
 
@@ -30,7 +30,7 @@ disqusShortname = "your_disqus_shortname"
   HeaderHostname = "gohugo.io"
   Email = "donald@schulz.com"
   About = "Hi I'm Donald and this is my web site where I like to share the new music that I am working on and provide some background on the songs I am releasing. Enjoy!"
-  ProfilePicture = "donald.png"
+  ProfilePicture = "logo.png"
   Favicon = "favicon.ico"
   BlogOnIndex = true
 
